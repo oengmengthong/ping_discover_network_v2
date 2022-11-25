@@ -2,7 +2,7 @@ name: ping_discover_network_v2
 description: Library that allows to ping IP subnet and discover network 
   devices. Could be used to find printers and other devices and services in a
   local network(v2).
-version: 0.0.1
+version: 0.0.2
 #author: Oeng Mengthong <flutter@tablemi.com>
 homepage: https://github.com/oengmengthong/ping_discover_network_v2
 
